@@ -1,0 +1,18 @@
+{
+  "name": "river-at-midnight-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A relaxing evening. A rainy day. When gentle winds drift your thoughts away. On those nights or days, you'd be amazed, how gently the midnight river sways. A syntax theme, that it would seem, would reminisce a midnight stream. So through the trees, a gentle breeze, to help you write your code with ease.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "midnight",
+    "dark",
+    "river"
+  ],
+  "repository": "https://github.com/atom/river-at-midnight-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
